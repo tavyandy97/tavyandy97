@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Taveesh 👋
 
+- 🔭 I’m currently working on my project [SpanTree](https://github.com/tavyandy97/span-tree)
+- 🌱 I’m currently learning React Native 
+- 💬 Ask me about anything [here](https://github.com/tavyandy97/tavyandy97/issues)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tavyandy97&show_icons=true&theme=merko&line_height=27" alt="Taveesh's GitHub stats" />
 <!--
 **tavyandy97/tavyandy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
