@@ -1,7 +1,7 @@
 ### Hi there, I'm Taveesh 👋
 
 - 🔭 I’m currently working on my project [SpanTree](https://github.com/tavyandy97/span-tree)
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Solidity 
 - 💬 Ask me about anything [here](https://github.com/tavyandy97/tavyandy97/issues)
 
 **Languages and Technologies:**  
