@@ -1,4 +1,4 @@
-### Hi there, I'm Taveesh 👋
+### Hey there, I'm Taveesh 👋
 
 - 🔭 I’m currently working on my project [SpanTree](https://github.com/tavyandy97/span-tree)
 - 🌱 I’m currently learning Solidity 
