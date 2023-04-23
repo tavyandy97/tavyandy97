@@ -1,7 +1,7 @@
 ### Hey there, I'm Taveesh 👋
 
 - 🔭 I’m currently working on my project [SpanTree](https://github.com/tavyandy97/span-tree)
-- 👨‍💻 I’m currently learning [GPT_PPT](https://gpt-ppt.neftup.app/)
+- 👨‍💻 I’m currently working on [GPT_PPT](https://gpt-ppt.neftup.app/)
 - 💬 Ask me about anything [here](https://github.com/tavyandy97/tavyandy97/issues)
 
 **Languages and Technologies:**  
